@@ -16,7 +16,7 @@
 
 -- Ejercicio 5 OPCION 2: Seleccionar los usuarios que tienen 28 años. 
 -- Tu respuesta aquí
-    SELECT nombre, edad FROM usuarios_lenguajes WHERE edad = 30
+    SELECT nombre, edad FROM usuarios_lenguajes WHERE edad = 28
 
 -- Ejercicio 6: Encontrar el usuario con el email 'juan.gomez@example.com'.
 -- Tu respuesta aquí
